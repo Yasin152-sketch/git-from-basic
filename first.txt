@@ -3,3 +3,5 @@ and first intilition file for this is folder on here!
 this is second changes in first.txt file in it!
 git tag statement!
 merge commit on here!
+
+this is non fastforward merge on here!
