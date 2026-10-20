@@ -4,4 +4,4 @@ this is second changes in first.txt file in it!
 git tag statement!
 merge commit on here!
 
-this is non fastforward merge on here!
+git is not anyone issue on here!
